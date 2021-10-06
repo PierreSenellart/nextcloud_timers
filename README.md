@@ -1,2 +1,2 @@
 # nextcloud_timer
-Nextcloud Timer App
+Nextcloud Timer App. Work in progress, not yet functional.
