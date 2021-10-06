@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<info xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+    <id>timer</id>
+    <name>Timer</name>
+    <summary>Shared timer</summary>
+    <description><![CDATA[This app allows to view a countdown timer shared among people connected on the Nextcloud instance.]]></description>
+    <version>0.0.1</version>
+    <licence>agpl</licence>
+    <author mail="pierre@senellart.com" homepage="https://pierre.senellart.com">Pierre Senellart</author>
+    <namespace>Timer</namespace>
+    <category>tools</category>
+    <bugs>https://github.com/PierreSenellart/nextcloud_timer/issues</bugs>
+    <dependencies>
+        <nextcloud min-version="12" max-version="12"/>
+    </dependencies>
+    <navigations>
+        <navigation>
+            <name>Timer</name>
+            <route>timer.page.index</route>
+        </navigation>
+    </navigations>
+</info>
