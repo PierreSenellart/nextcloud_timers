@@ -1,6 +1,6 @@
-# Nextcloud Timer App
+# Nextcloud Timers App
 
-Nextcloud Timer App. Work in progress, not yet functional.
+Nextcloud Timers App. Work in progress, not yet functional.
 
 Place this app in **nextcloud/apps/**
 
